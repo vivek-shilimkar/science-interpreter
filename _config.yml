@@ -1,0 +1,6 @@
+theme: minima
+
+#include images
+include: 
+  - _images
+  - _pages
