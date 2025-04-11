@@ -4,3 +4,8 @@ theme: minima
 include: 
   - _images
   - _pages
+
+#pages
+header_pages:
+  - index.md
+  - about.md
