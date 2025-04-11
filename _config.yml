@@ -9,3 +9,5 @@ include:
 header_pages:
   - index.md
   - about.md
+  - science.md
+  - tech.md
