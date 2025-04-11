@@ -11,3 +11,15 @@ header_pages:
   - about.md
   - science.md
   - tech.md
+
+plugins:
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: /category/:name/
+    tag: /tag/:name/
